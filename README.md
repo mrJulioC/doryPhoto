@@ -53,11 +53,6 @@ a `Android/data`; la propia aplicación sí puede abrir y administrar sus fotos.
 Dory Photo no solicita permiso de Internet. Consulta la
 [política de privacidad](PRIVACY_POLICY.md) para más información.
 
-## Verificación
-
-La huella SHA-256 de la APK oficial v2.1.0 se publica junto con la descarga en
-`SHA256SUMS.txt`.
-
 ## Licencia
 
 Distribución autorizada únicamente para uso personal. Consulta [LICENSE](LICENSE).
