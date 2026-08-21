@@ -8,15 +8,11 @@
 verlas en miniatura o a pantalla completa, recorrerlas con el dedo, marcarlas
 como favoritas, editarlas y compartirlas.
 
-## Descargar e instalar
+## Descargar la APK
 
-1. Abre la sección **Releases** de este repositorio.
-2. En la versión más reciente, descarga `Dory-Photo-v2.1.0.apk`.
-3. Abre el archivo en el teléfono y autoriza la instalación desde esa fuente si
-   Android lo solicita.
+[Descargar Dory Photo v2.1.0](apk/Dory-Photo-v2.1.0.apk)
 
-> Los enlaces automáticos de GitHub llamados **Source code (zip/tar.gz)** no son
-> la aplicación. El archivo instalable termina en `.apk`.
+Compatible con Android 10 o superior.
 
 ## Funciones principales
 
